@@ -2,7 +2,7 @@
 
 ## Purpose of this App
 
->A client payment management dashboard built in Angular5 with a Google Firestore backend for database and authentication.
+>A client payment management dashboard built in Angular5 utilizing  Google Firestore backend for database and authentication.
 
 ### Table of Contents
 
@@ -15,8 +15,8 @@
 | Core | Styling | Database/Authentication |
 | ---- | ------- | ------- |
 | Angular5 | CSS3 | Firestore |
-| NodeJS | BootStrap 4.0 | |
-| | Google Fonts |   |   |
+| NodeJS | BootStrap 4.0 |  |
+| TypeScript | Google Fonts |   |   |
 
 #### License
 
